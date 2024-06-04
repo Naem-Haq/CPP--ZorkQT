@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/MenuScreen">
+        <file>images/489ceccb15bbd05ea614de990118cde0.gif</file>
+        <file>images/download.jfif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/bar.gif</file>
+        <file>images/alleyway.png</file>
+        <file>images/store.jpg</file>
+        <file>images/end screen.gif.crdownload</file>
+        <file>images/game over.jpg</file>
+        <file>images/other bar.gif</file>
+        <file>images/store.gif</file>
+        <file>images/danger alley.jpg</file>
+        <file>images/alleyway 2.jpg</file>
+        <file>images/key.png</file>
+        <file>words.txt</file>
+        <file>Allwords.txt</file>
+        <file>images/logo.png</file>
+        <file>images/map.png</file>
+        <file>images/knife.jpg</file>
+        <file>images/rainbow-pixel-art-minecraft-weapon-weaponry-blade-tool-transparent-png-947604.png</file>
+    </qresource>
+</RCC>
